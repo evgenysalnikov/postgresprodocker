@@ -2,7 +2,7 @@ FROM ubuntu:latest
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV PG_MAJOR 9.6
-ENV PG_VERSION PostgresPro 9.6.3.1
+ENV PG_VERSION PostgresPro 9.6.5.1
 ENV LANG ru_RU.utf8
 ENV LC_ALL ru_RU.UTF-8
 
